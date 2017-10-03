@@ -5,6 +5,7 @@ import random
 from sklearn.utils import shuffle
 from sklearn.metrics import calinski_harabaz_score
 
+# test string added
 def csr_read(fname, ftype="csr", nidx=1):
     r""" 
         Read CSR matrix from a text file. 
